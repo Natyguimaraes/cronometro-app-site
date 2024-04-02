@@ -1,0 +1,33 @@
+body {
+    background-image: url("https://th.bing.com/th/id/OIP.pvE8NSX4xQPxG345JMyObAHaEo?w=262&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7");
+    background-repeat: no-repeat;
+}
+
+.container_cronometro {
+    background-color: rgb(215, 221, 243);
+    width: 50%;
+    padding: 10px;
+    margin: 15px auto;
+    border-radius: 50%;
+}
+
+.container_cronometro2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 35px; 
+}
+
+.botao_controle {
+    padding: 10px;
+    margin: 10px;
+    width: 70%;
+    background-color: rgb(247, 247, 247);
+    font-size: x-large;
+    
+} 
+
+h1 {
+    font-size: xx-large;
+    text-transform: uppercase;
+}
